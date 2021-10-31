@@ -6,7 +6,7 @@ import Tours from "../Tours/Tours";
 
 const Home = () => {
   return (
-    <div>
+    <div className='home'>
       <Header></Header>
       <Tours></Tours>
       <TourBook></TourBook>

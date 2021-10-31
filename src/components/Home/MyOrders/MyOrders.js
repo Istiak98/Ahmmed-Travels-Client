@@ -59,7 +59,7 @@ const MyOrders = () => {
                 .then(data => {
                     console.log(data);
                     if (data.deletedCount) {
-                        alert('successfullly canceled!')
+                        alert('successfullly canceled !!?!!')
                         const reamainingServices = found.filter(service => service.orderId !== id)
                         setFound(reamainingServices);
                     }

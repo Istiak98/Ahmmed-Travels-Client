@@ -11,8 +11,8 @@ const ManageOrder = (props) => {
             <td>{phone}</td>
             <td>{date}</td>
             <td className={status === 'pending' ? 'text-danger' : 'text-success'}>{status}</td>
-            <td><button className='btn btn-success' onClick={() => handleApproveOrder(_id)}>Approve</button></td>
-            <td><button className='btn btn-danger' onClick={() => handleCancelOrder(_id)}>Delete</button></td>
+            <td><button className='btn btn-success' onClick={() => handleApproveOrder(_id)}>APPROVE</button></td>
+            <td><button className='btn btn-danger' onClick={() => handleCancelOrder(_id)}>DELETE</button></td>
         </tr>
     );
 };

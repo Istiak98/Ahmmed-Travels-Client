@@ -10,7 +10,7 @@ const NotFound = () => {
             <div className="col-md-12 text-center">
               <span className="display-1 d-block">404</span>
               <div className="mb-4 lead">
-                The page you are looking for was not found.
+                The page you are looking for was not found....
               </div>
               <Link to="/home">
                 <button

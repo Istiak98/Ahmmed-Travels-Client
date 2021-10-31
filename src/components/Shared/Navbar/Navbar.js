@@ -100,7 +100,7 @@ const Navbar = () => {
           {
             user.email&&
             <Link to="/addTours">
-              <button className="btn btn btn-outline-warning me-3">Add a New Tour</button>
+              <button className="btn btn btn-outline-warning me-3">Add  New Tour</button>
             </Link>
           }
             {user.email ? (

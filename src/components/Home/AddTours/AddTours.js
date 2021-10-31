@@ -24,7 +24,7 @@ const AddTours = () => {
             <textarea {...register("description")} placeholder="Description" />
             <input type="number" {...register("price")} placeholder="price" />
             <input {...register("image")} placeholder="image url" />
-            <input className='btn btn-dark' type="submit" />
+            <input className='btn btn-warning' type="submit" />
         </form>
     </div>
 );

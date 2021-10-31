@@ -90,7 +90,7 @@ const TourBook = () => {
           />
          <div className='text-center'>
          <button
-            className="btn btn-dark align-middle mt-2 justify-content-center"
+            className="btn btn-dark align-middle mt-3 justify-content-center"
             type="submit"
           >
             Submit

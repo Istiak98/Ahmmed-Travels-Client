@@ -90,7 +90,7 @@ const TourInfo = () => {
             ></i>
             <div>
               <p className="mx-5 align-middle fw-bold h2-text">Handpicked Hotels</p>
-              <small>Worlds Best Handpicked Hotels</small>{" "}
+              <small>Worlds Best Handpicked Hotel's</small>{" "}
             </div>
           </div>
         </div>

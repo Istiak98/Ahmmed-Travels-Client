@@ -10,7 +10,7 @@ const TourCard = ({tour}) => {
       <h5>Price: {price}$</h5>
       <p className="px-3  ">{description}</p>
       <Link to={`/placeOrder/${_id}`}>
-        <button className="btn btn-outline-dark">Book Now</button>
+        <button className="btn btn-outline-dark">Book</button>
       </Link>
     </div>
   );

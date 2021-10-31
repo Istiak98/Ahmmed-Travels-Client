@@ -8,7 +8,7 @@ const About = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="lg-text">About Us</h1>
+              <h1 className="lg-text">About US</h1>
               <p className="image-aboutus-para">AHMED TRAVELS</p>
             </div>
           </div>
@@ -53,6 +53,9 @@ const About = () => {
       </div>
       
     </div>
+
+
+
   );
 };
 

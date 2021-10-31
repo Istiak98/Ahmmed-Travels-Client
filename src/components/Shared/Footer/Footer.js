@@ -48,7 +48,7 @@ const Footer = () => {
               <h3>AHMED TRAVELS</h3>
               <p>
                 At AHMED TRAVELS Let’s start your journey with us, your dream
-                will come true.
+                will come true..
               </p>
             </div>
             <div className="col-md-2 item text">

@@ -44,7 +44,7 @@ const PlaceOrder = () => {
 
     return (
         <Container>
-            <Row className='mt-5 '>
+            <Row className='mt-4 '>
                 <Col lg={4}>
                   
                         <Card className='p-0'>

@@ -94,7 +94,7 @@ const ManageOrders = () => {
                 </div>
                 :
                 <div className='container text-center mt-5'>
-                    <Spinner animation="border" variant="dark" />
+                    <Spinner animation="border" variant="info" />
                 </div>
             }
         </>

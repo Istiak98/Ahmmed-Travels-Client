@@ -15,7 +15,7 @@ const TourDetail = () => {
   return (
     <div className="col-md-12 ">
       <div className="p-3">
-        <h4 className="h4-text">TOURS DETAILS AT ONE GLANCE</h4>
+        <h4 className="h4-text">TOURS DETAILS AT A GLANCE</h4>
         <img
           src={ExactService[0]?.image}
           className="img-thumbnail w-25"

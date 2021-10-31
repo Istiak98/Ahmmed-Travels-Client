@@ -7,7 +7,7 @@ table {
   }
   th, td {
     text-align: left;
-    padding: 8px;
+    padding: 9px;
   }
   
   tr:nth-child(even) {background-color: #f8e6e6;}

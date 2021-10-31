@@ -4,7 +4,7 @@
   grid-gap: 20px;
 }
 .delux {
-  color: goldenrod;
+  color: rgb(233, 176, 34);
 }
 /* Make it responsive */
 @media only screen and (max-width: 688px) {

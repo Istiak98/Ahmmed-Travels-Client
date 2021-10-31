@@ -11,7 +11,7 @@ const Header = () => {
         className="carousel carousel-dark slide"
         data-bs-ride="carousel"
       >
-        <div className="carousel-indicators">
+        <div className="carousel-indicators" id='div-1'>
           <button
             type="button"
             data-bs-target="#carouselExampleDark"

@@ -10,7 +10,6 @@ import NotFound from "./components/Shared/NotFound/NotFound";
 import About from "./components/Home/AboutUs/About";
 import ContactUs from "./components/Home/Contact/ContactUs";
 import PrivateRoute from './components/Shared/Login/PrivateRoute/PrivateRoute'
-// import TourDetail from "./components/TourDetail/TourDetail";
 import PlaceOrder from "./components/Home/PlaceOrder/PlaceOrder";
 import MyOrders from "./components/Home/MyOrders/MyOrders";
 import ManageOrders from './components/Home/ManageOrders/ManageOrders'

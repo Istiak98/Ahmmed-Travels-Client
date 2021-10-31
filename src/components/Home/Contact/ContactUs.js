@@ -7,7 +7,7 @@ const ContactUs = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="lg-text">CONTACT US</h1>
+              <h1 className="lg-text">Contact US</h1>
               <p className="image-aboutus-para">AHMED TRAVELS</p>
             </div>
           </div>
