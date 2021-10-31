@@ -1,7 +1,7 @@
 import React from "react";
-import Bnr1 from "../../../images/Bnr1.png";
-import Bnr2 from "../../../images/Bnr2.png";
-import Bnr3 from "../../../images/Bnr3.png";
+import Bnr11 from "../../../images/Bnr11.png";
+import Bnr22 from "../../../images/Bnr22.png";
+import Bnr33 from "../../../images/Bnr33.png";
 
 const Header = () => {
   return (
@@ -35,13 +35,13 @@ const Header = () => {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active" data-bs-interval="10000">
-            <img src={Bnr1} className="d-block w-100" alt="..." />
+            <img src={Bnr11} className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item" data-bs-interval="2000">
-            <img src={Bnr2} className="d-block w-100" alt="..." />
+            <img src={Bnr22} className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item">
-            <img src={Bnr3} className="d-block w-100" alt="..." />
+            <img src={Bnr33} className="d-block w-100" alt="..." />
           </div>
         </div>
         <button
