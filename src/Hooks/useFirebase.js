@@ -17,23 +17,6 @@ const useFirebase = () => {
 
   const auth = getAuth();
 
-  // const { setIsLoading, signInUsingGoogle, setUser, setError } = useAuth();
-  // //   const location = useLocation();
-  // //   const history = useHistory();
-  // //   const redirect_url = location.state?.from || '/';
-
-  // //   const handleGoogleLogin = () => {
-  // //       signInUsingGoogle()
-  // //           .then(result => {
-  // //               history.push(redirect_url);
-  // //               setUser(result.user);
-  // //           })
-  // //           .catch(error => {
-  // //               console.log(error.message);
-  // //               setError(error.message);
-  // //           })
-  // //           .finally(() => setIsLoading(false));
-
   const signInUsingGoogle = () => {
     setIsLoading(true);
     const googleProvider = new GoogleAuthProvider();
